@@ -1,9 +1,11 @@
-﻿// Умные указатели. Smart pointers. | C++ для начинающих | Урок #130
+﻿//********************************************************************
+// Умные указатели. Smart pointers. | C++ для начинающих | Урок #130
 // https://youtu.be/ixsTu-ULh0Q
 // С++ | Visual Studio 2019 
 // Журавлёв Сергей | #SimpleCode | Udemy
 // https://www.udemy.com/user/zhuravliov-sergei/
 // 2022 @ sgiman
+//********************************************************************
 
 #include <iostream>
 #include "untils.h"
